@@ -5,7 +5,8 @@
 This project aims to illustrate the troubleshooting process for installation media during the operating system import procedure. The identified issue pertains to the media creation tool being classified as an electronic software, while the MDT deployment program exclusively recognizes WIM files. The outlined procedure will elucidate the steps involved in copying the ESD file to a separate directory and subsequently extracting a .wim file from it.
 <br />
 
-<h2>Troubleshooting Referece Used</h2>
+<h2>Troubleshooting Reference Used</h2>
+- (https://community.spiceworks.com/t/convert-esd-to-wim/1012918/11)
 
 
 <h2>Utilities Used</h2>
